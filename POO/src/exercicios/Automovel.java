@@ -8,8 +8,6 @@ public class Automovel {
     private String placa;
     private int ano;
 
-    // cria��o do metodo construtor
-
     public Automovel(String nomeProprietario, String modelo, String placa, int ano) {
         // inicializando atributos da classa Automovel
         this.nomeProprietario = nomeProprietario;
@@ -19,6 +17,7 @@ public class Automovel {
 
     }
 
+    // cria��o do metodo construtor
     public void imprimirInfo() {
         System.out.println("\n" + nomeProprietario + " possui um " + modelo + " com placa " + placa + "e ano" + ano);
     }
@@ -33,15 +32,18 @@ public class Automovel {
         this.nomeProprietario = nomeProprietario;
     }
 
-    public String getModelo() {
+    public String getModelo()
+    {
         return modelo;
     }
 
-    public void setModelo(String modelo) {
+    public void setModelo(String modelo)
+    {
         this.modelo = modelo;
     }
 
-    public String getPlaca() {
+    public String getPlaca()
+    {
         return placa;
     }
 
