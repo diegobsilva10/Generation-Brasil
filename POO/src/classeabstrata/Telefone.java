@@ -2,6 +2,7 @@ package classeabstrata;
 
 public abstract class Telefone {
     //ATRIBUTOS
+    //
     private String tipo;
     //metodo abstrato
     abstract public void disca (String numero);

@@ -6,8 +6,8 @@ public class TesteTelefone {
         Celular celular = new Celular();
         Fixo fixo = new Fixo();
         Publico publico = new Publico();
-        Telefone telefone = new Telefone() {
-        }
+        Telefone telefone = new Telefone();
+    }
 
 
         int n = (int) (Math.random() * 3.0);
@@ -33,6 +33,6 @@ public class TesteTelefone {
     {
         telefone.disca("987456123");
         telefone.toca(1);
-    }
+        }
 
-}
+        }

@@ -12,7 +12,7 @@ public class Fixo extends Telefone {
     public void toca(int numToques)
     {
         for (int i = 0;i<numToques;i++){
-            System.out.print("o fixo ta tocando");
+            System.out.print("o fixoo ta tocando");
         }
 
     }
