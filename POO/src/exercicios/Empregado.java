@@ -12,7 +12,7 @@ public class Empregado {
     // cria��o do metodo construtor
 
     public Empregado(String nome, double salario) {
-        // inicializando atributos da classe Empregado\\
+        // inicializandjo atributos da classe Empregado\\
 
         this.setNome(nome);
         this.setSalario(salario);
