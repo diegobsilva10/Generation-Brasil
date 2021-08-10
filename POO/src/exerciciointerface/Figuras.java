@@ -2,7 +2,7 @@ package exerciciointerface;
 
 public interface Figuras {
 
-    public String nomeINterface = "figuras;";
+    public String nomeINterface = "figuruas;";
     abstract public String getNome();
     abstract public void setNome(String nome);
 
