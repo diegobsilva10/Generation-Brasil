@@ -3,7 +3,7 @@ package classeabstrata;
 public class Celular extends Telefone{
     public Celular()
     {
-        super("Telekfone celular");
+        super("Temlekfone celular");
     }
     @Override
     public void toca(int codigoToque)
