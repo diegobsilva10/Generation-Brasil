@@ -2,26 +2,46 @@ package projeto1;
 
 import com.sun.xml.internal.ws.db.glassfish.MarshallerBridge;
 
-public class Caixa{
+public class Caixa implements Mercado{
 
     private int PrecoProduto;
     private String ListaProduto;
     private boolean abrirCaixa;
+    private String iniciaCompra;
+
 
     //CONSTRUTOR
 
-    public Caixa(int precoproduto,String listaproduto, boolean abrircaixa)
+    public Caixa(precoproduto,iniciaCompra,S tring listaproduto, abrircaixa)
 
     //INSTANCIANDO AS VARIAVEIS DA CLASSE
     {
         super();
+        this.iniciaCompra = setIniciaCompra();
         this.PrecoProduto =  precoproduto;
         this.ListaProduto = listaproduto;
         this.abrirCaixa = abrircaixa;
     }
 
     // MÉTODOS
+    @Override
+    public void exibeValor (int valorProduto)
+    {
 
+    }
+    public void exibeListaProduto (String ListaProduo)
+    {
+
+    }
+    public String getIniciaCompra() {
+        return iniciaCompra;
+    }
+
+    public void setIniciaCompra(String iniciaCompra) {
+        this.iniciaCompra = iniciaCompra;
+    }
+
+    @
     public int getPrecoProduto() {
         return PrecoProduto;
     }
