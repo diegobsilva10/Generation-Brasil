@@ -10,6 +10,7 @@ public class TesteTelefone {
     }
 
 
+
         int n = (int) (Math.random() * 3.0);
         System.out.print("\nNumero escolhido: " + n);
     }

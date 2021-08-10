@@ -18,6 +18,7 @@ public abstract class Telefone {
         return tipo;
     }
 
+
     public void setTipo(String tipo) {
         this.tipo = tipo;
     }

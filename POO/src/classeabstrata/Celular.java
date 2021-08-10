@@ -8,6 +8,7 @@ public class Celular extends Telefone{
     @Override
     public void toca(int codigoToque)
     {
+
         switch (codigoToque)
         {
             case 1:

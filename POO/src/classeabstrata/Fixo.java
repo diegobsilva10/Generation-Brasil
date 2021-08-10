@@ -15,6 +15,7 @@ public class Fixo extends Telefone {
             System.out.print("o fixoo ta tocando");
         }
 
+
     }
     @Override
     public void disca(String numero )

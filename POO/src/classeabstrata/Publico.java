@@ -13,6 +13,7 @@ public class Publico extends Telefone {
             System.out.print("publico ligando");
         }
 
+
     }
     @Override
     public void disca(String numero)
