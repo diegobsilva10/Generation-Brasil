@@ -4,7 +4,7 @@ public class Fixo extends Telefone {
 
     public Fixo()
     {
-        super("Telefone Fixo");
+        super("Telefoxne Fixo");
     }
 
 
