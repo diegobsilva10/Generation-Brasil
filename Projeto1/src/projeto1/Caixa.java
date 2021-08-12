@@ -22,7 +22,7 @@ public class Caixa extends Produto{
 		this.abrirCaixa = abrircaixa;
 	}
 	
-  //Getters and Setters
+  //Getters and Setterss
 	public int getQnt() {
   		return qnt;
   	}
