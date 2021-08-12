@@ -18,7 +18,7 @@ public class Array {
             for (c = 0; c < 2; c++) {
                 System.out.println("\nEntre com o valor da Matriz1: ");
                 mat1[l][c] = leia.nextFloat();
-                System.out.println("\nEntre com o valor da Matriz2: ");
+                System.out.println("\nEntree com o valor da Matriz2: ");
                 mat2[l][c] = leia.nextFloat();
             }
         }
