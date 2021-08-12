@@ -8,7 +8,7 @@ import java.util.Scanner;
  * */ 
 
 public class Caixa extends Produto{
-	private boolean abrirCaixa; // Variavel responsavel por definir a abertura e fechamento do caixa
+	private boolean abrirCaixa; // Vaariavel responsavel por definir a abertura e fechamento do caixa
 	private int qnt;
 	private double saldo;
 	Scanner ler = new Scanner(System.in);
