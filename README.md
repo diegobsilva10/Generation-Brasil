@@ -18,7 +18,7 @@ seu projeto é de baixo custo e pode ser executado em máquinas com pouca capaci
 sendo uma importante ferramenta a comerciantes que, nesta pandemia, tiveram a sua receita reduzida.
 
  </br>GitHub dos Contribuidores</br>
-<a href= "https://github.com/leo-nardow" targe ="blank">Leonardo Almeida</a></br>
+<a href= "https://github.com/leo-nardow" target ="blank">Leonardo Almeida</a></br>
 <a href = "https://github.com/snaiter0" target ="_blank"> Douglas Souza</a></br>
 <a href = "https://github.com/isaiaszanoni" target ="_blank"> Isaias Rodrigues</a></br>
 <a href = "https://github.com/JulioBonffim" target ="_blank"> Julio Bonfim </a></br>
