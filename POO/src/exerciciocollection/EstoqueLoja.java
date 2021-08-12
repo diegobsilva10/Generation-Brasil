@@ -18,7 +18,7 @@ public class EstoqueLoja {
 
                 System.out.println("\n\t\tMenu de opções... ");
                 System.out.println("--------------------------------------------");
-                System.out.println("\n(1) Deseja adicionar produtos ao estoque?"
+                System.out.println("\n(1) Deseja adicionar produtos, ao estoque?"
                         + "\n(2) Deseja remover produtos do estoque?"
                         + "\n(3) Atualizar um produto do estoque"
                         + "\n(4) Mostrar todos os produtos do estoque"
