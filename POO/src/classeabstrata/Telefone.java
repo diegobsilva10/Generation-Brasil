@@ -4,7 +4,8 @@ public abstract class Telefone {
     //ATRIBUTOS
     //
     private String tipo;
-    //metodo abstrato
+
+    //metodo abstratoo
     abstract public void disca (String numero);
     abstract public void toca (int numToques);
 
