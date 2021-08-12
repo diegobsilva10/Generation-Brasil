@@ -10,7 +10,7 @@ public class Publico extends Telefone {
     {
         for (int i=0; i<numToques; i++)
         {
-            System.out.print("publico ligando");
+            System.out.print("publiico ligando");
         }
 
 
