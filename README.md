@@ -11,10 +11,10 @@ Polimorfismo</br>
 Collections</br>
 
 <h2>MySQL</h2>
-Criação de Tabelas
-Inserção de Dados 
-Alteração de Dados
-Conceito Relacionamento entre Entidades (PRIMARY KEY, FOREIGN KEY)
+Criação de Tabelas</br>
+Inserção de Dados </br>
+Alteração de Dados </br>
+Conceito Relacionamento entre Entidades (PRIMARY KEY, FOREIGN KEY)</br>
 
 <h2>#Projeto1</h2></br>
 Objetivo: 
