@@ -10,6 +10,12 @@ Interface</br>
 Polimorfismo</br>
 Collections</br>
 
+<h2>MySQL</h2>
+Criação de Tabelas
+Inserção de Dados 
+Alteração de Dados
+Conceito Relacionamento entre Entidades (PRIMARY KEY, FOREIGN KEY)
+
 <h2>#Projeto1</h2></br>
 Objetivo: 
 Um sistema de Caixa que digitaliza e resolve problemas cotidianos de pequenos empreendimentos,
