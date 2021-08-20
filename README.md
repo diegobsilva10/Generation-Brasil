@@ -14,7 +14,8 @@ Collections</br>
 Criação de Tabelas</br>
 Inserção de Dados </br>
 Alteração de Dados </br>
-Conceito Relacionamento entre Entidades (PRIMARY KEY, FOREIGN KEY)</br>
+Conceito Relacionamento entre Entidades (PRIMARY KEY, FOREIGN KEY,INNER JOIN, RIGHT JOIN, LEFT JOIN)</br>
+INNER JOIN RIGHT JOIN LEFT JOIN</br>
 
 <h2>#Projeto1</h2></br>
 Objetivo: 
